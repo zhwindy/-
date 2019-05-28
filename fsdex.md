@@ -8,9 +8,10 @@
 
 ### 官方资料
 1. 官网: https://fsdex.io/
-2. 官方区块链浏览器: 无
-3. 官方github地址: 无
-4. 官方技术交流群: 无
+2. 官方区块链浏览器（生产）：https://fscan.io/home
+3. 官方区块链浏览器（测试）：https://beta-fscan.valicn.com/home
+4. 官方github地址: 无
+5. 官方技术交流群: 无
 
 ### 技术架构
 1. 区块链最新高度: 3972750
@@ -24,7 +25,7 @@
 
 ### API接口
 1. 已提供RPC-API
-2. API地址: https://beta-api-chain.valicn.com/
+2. API地址（测试环境）: https://beta-api-chain.valicn.com/
 3. API是否支持RawData: 不支持
 
 ### 数据结构和数据解析
