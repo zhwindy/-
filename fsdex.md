@@ -15,7 +15,7 @@
 
 ### 技术架构
 1. 区块链最新高度: 3972750
-2. 出块速度: 未知(大概与EOS相同)
+2. 出块速度: (与EOS相同)
 3. 区块链容量: 未知
 4. 组织模型: 账户模型
 5. 共识算法: DPOS + PBFT
@@ -26,6 +26,7 @@
 ### API接口
 1. 已提供RPC-API
 2. API地址（测试环境）: https://beta-api-chain.valicn.com/
+3. API列表: https://developers.eos.io/eosio-nodeos/reference
 3. API是否支持RawData: 不支持
 
 ### 数据结构和数据解析
