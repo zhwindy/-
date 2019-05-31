@@ -12,7 +12,7 @@
 1. 官网: https://nebulas.io/cn/index.html
 2. 官方区块链浏览器: https://explorer.nebulas.io/#/
 3. 官方github地址: https://github.com/nebulasio/go-nebulas
-4. 官方技术交流群: 微信
+4. 官方技术交流群: 微信交流群
 
 #### 技术架构
 1. 区块链最新高度: 2431447
